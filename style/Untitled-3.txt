@@ -1,0 +1,79 @@
+ <div class="img-run">
+    <img src="./B10A2-versatile-ui/assigment2.2/images/run.jpg">
+  </div>
+  </div>
+  </div>
+
+
+
+  .back{
+  background-color: rgb(34,34,34);
+  width:50%;
+  justify-content:center;
+
+}
+.run-an-extra-1{
+  background-color: rgba(255,=]]...........................................................................................................................................................................1 /* services sections styles */
+.services{
+}
+color: #ffffff;
+.service-title{
+font-size: 3rem; font-weight: 600; margin: 30px 0; text-align: center;
+10
+11
+}
+12
+13
+14
+15
+16
+.services-content{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+17
+}
+18
+19
+20
+21
+.service-card{
+width: 100%;
+max-width: 350px;
+22
+margin: 30px auto;
+23
+24
+25
+26
+27
+28
+29
+}
+30
+31
+border-radius: 20px;
+padding: 30px;
+line-height: 30px;
+box-shadow: 0px 2px 4px rgba(228, 222, 222, 0.842); background-color: rgba(255, 255, 255, 0.1);
+text-align: center;
+.service-card h3{
+font-size: 2rem;
+32
+margin-bottom: 10px;
+33
+}
+34
+35
+36
+}
+37
+38
+39
+.service-card p{
+opacity: .6;
+.service-icon{
+font-size: 1.8rem;
+margin-bottom: 20px;
+40
+41
